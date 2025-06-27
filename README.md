@@ -1,4 +1,4 @@
 # khushi-demo
 This is my first Git Repository
 <br> 
-I am a Undergraduate CSE Student.
+I am a Undergraduate CSE Student of RGIPT.
